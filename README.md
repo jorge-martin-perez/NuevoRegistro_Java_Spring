@@ -1,7 +1,7 @@
 # Sistema de Gestión de Usuarios — Spring MVC 
 
 <p align="center">
-  <img src="screenshot_login.png" alt="Inicio de sesión" width="700">
+  <img src="screenshot/screenshot_login.png" alt="Inicio de sesión" width="700">
 </p>
 
 Aplicación web desarrollada en Java con Spring MVC que implementa un sistema de registro y login de usuarios. Ejercicio de introducción a Spring MVC con data binding, gestión de formularios y navegación entre vistas JSP.
@@ -84,7 +84,7 @@ git clone https://github.com/jorge-martin-perez/JavaSpringNuevoRegistro.git
 ## Capturas de pantalla
 
 <p align="center">
-  <img src="screenshot_login.png" alt="Pantalla de inicio de sesión" width="700">
+  <img src="screenshot/screenshot_login.png" alt="Pantalla de inicio de sesión" width="700">
   <br>
   <em>Pantalla de inicio de sesión</em>
 </p>
